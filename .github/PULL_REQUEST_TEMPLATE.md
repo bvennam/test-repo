@@ -4,4 +4,8 @@
 ## Related <!-- Please provide links to any related issues or PRs -->
 
 
-## How has this been tested? <!-- Please provide details of how this has been tested -->
+## Checklist
+- [] did you add any required documentation?
+- [] did you add comments where necessary?
+- [] are new and existing tests passing?
+- [] was this risk asessed? 
