@@ -5,7 +5,7 @@
 
 
 ## Checklist
-- [] did you add any required documentation?
-- [] did you add comments where necessary?
-- [] are new and existing tests passing?
-- [] was this risk asessed? 
+- [ ] did you add any required documentation?
+- [ ] did you add comments where necessary?
+- [ ] are new and existing tests passing?
+- [ ] was this risk asessed? 
