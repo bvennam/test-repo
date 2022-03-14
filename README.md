@@ -1,3 +1,3 @@
 # README
 
-This is place to describe the project.
+This is the place to describe the project.
